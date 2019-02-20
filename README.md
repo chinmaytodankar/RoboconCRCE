@@ -6,4 +6,4 @@ Manualbot.step has the model of our MR1 bot consisting of a 4 wheel mechanum dri
 
 autobot_piston.step has the model of our MR2 bot design using pistons and timing belts for each leg.
 
-CAM_follower.step has model of our MR2 bot alternate design based on cam follower mechanism.
+autobot_cam_follower.step has model of our MR2 bot alternate design based on cam follower mechanism.
